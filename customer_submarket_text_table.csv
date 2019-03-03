@@ -1,0 +1,45 @@
+customer_submarket_code,customer_submarket_description
+01,Electrical Contractors
+02,Residential Contractors
+03,Industrial Contractors
+04,Comm Data Contractor - Enterpr
+05,Comm Data Contractor - Broadba
+06,Lighting Management Companies
+07,ESCOs
+08,"Engineering, Procurement, Cons"
+09,General / Heavy Construction
+10,"Plumbing, Heating, A/C"
+11,Special Trade Contractors
+20,Food & Beverage
+21,Automotive/Transportation Equi
+22,"Metals, Mining, Minerals, Ceme"
+23,Fibers & Textiles
+24,Chemical Processing / Petroche
+25,Oil & Gas
+26,Printing & Publishing
+27,Pulp & Paper
+28,Power Generation
+29,Tire & Rubber
+30,Water / Wastewater
+31,"Other(Agri,Textiles,Furn,Fixt)"
+40,Panel Shops
+41,Oilfield Equipment
+42,Conveyors & Material Handling
+44,Packaging Machinery
+45,Electrical / Electronics
+46,Integrator
+47,"Turbine gen,gensets,motors/eng"
+48,Other
+50,Electric Utility T&D
+51,Broadband Utility Voice Data
+60,Entertainment
+61,Financial
+62,Healthcare
+63,Retail and Hospitality
+64,Property Owners / Management
+65,Services
+66,Transportation
+67,Wholesale
+68,Federal
+69,State & Local
+70,Education
